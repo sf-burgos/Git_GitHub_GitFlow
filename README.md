@@ -1,6 +1,6 @@
 # Git_GitHub_GitFlow
 
-## Repositorios locales
+# Repositorios locales
 
 ### Área de ensayo y repositorio local
 
@@ -32,7 +32,7 @@
 
 > git reset --hard "code_before"
 
-## Repositorios a GITHUB
+# Repositorios en GITHUB
 
 ### Agregar todos los archivos
 
@@ -62,7 +62,7 @@
 
 > git clone "url del Repositorio"
 
-## RAMAS o BRANCH
+# RAMAS o BRANCH
 
 ![image](https://user-images.githubusercontent.com/45188320/129415918-6638dcd3-8e6c-4c3d-80af-2a8aaefda3dd.png)
 
@@ -84,7 +84,7 @@
 
 > git merge "rama que quiero que se mezcle"
 
-# Borrar un rama 
+### Borrar un rama 
 
 > git branch -d "nombre de la rama que quiero borrar
 
