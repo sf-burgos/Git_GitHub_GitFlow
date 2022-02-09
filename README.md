@@ -88,6 +88,10 @@
 
 > git branch -d "nombre de la rama que quiero borrar
 
+### Borrar y recuperar cambios con git (stash) 
+
+https://styde.net/deshacer-y-recuperar-cambios-con-git/
+
 
 
 
